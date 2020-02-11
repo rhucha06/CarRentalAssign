@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title></title>
+<title>SIGN-UP</title>
 </head>
 <body>
     <form:form method = "post" action = "addUser">
